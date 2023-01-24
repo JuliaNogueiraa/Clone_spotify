@@ -1,0 +1,96 @@
+.body{
+  align-content: center;
+}
+
+#navbar{
+  height: 180px;
+  align-items: center;
+}
+
+.navbar-container{
+  flex-direction: column;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.logo{
+  margin-bottom: 20px;
+}
+
+.ul-navbar{
+  flex-flow: wrap;
+  margin-left: 25px;
+  margin-right: 20px;
+}
+
+.ul-navbar :nth-child(4) {
+  border-left: 1px solid black;
+}
+
+#premium {
+  align-items: center;
+  flex-direction: column;
+  padding: 0;
+}
+
+.image1{
+  padding-top: 20px;
+  padding-left: 0px;
+}
+
+.p1{
+  text-align: center;
+  font-size: 10px;
+  margin-top: 30px;
+  font-weight: 200;
+}
+
+.p2{
+  font-size: 11px;
+  font-weight: 200;
+}
+
+h1 {
+  align-items: center;
+  font-size: 27px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 14px;
+  font-weight: 400;
+  padding-top: 10px;
+  padding-bottom: 20px;
+
+}
+
+#free{
+  align-items: center;
+  flex-direction: column;
+  padding: 90px;
+}
+
+.Emuda{
+  text-align: center;
+  font-size: 25px;
+}
+
+.hfree{
+  text-align: center;
+  font-size: 14px;
+  margin-left: -70px;
+  width: 400px;
+}
+
+
+.footer-content {
+  flex-direction: column;
+  justify-content: space-between;
+  margin: auto;
+  width: 87%;
+  font-size: 14px;
+}
+
+.logo{
+  width: 100px;
+}
